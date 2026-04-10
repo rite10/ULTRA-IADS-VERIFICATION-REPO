@@ -1,4 +1,4 @@
-package com.nit.winch_service;
+package com.nit.winch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
